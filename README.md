@@ -157,6 +157,7 @@ public class MainActivity extends AppCompatActivity {
 
 ![image](https://github.com/user-attachments/assets/6e8af878-1a8f-4947-a192-3c15cd78f8e0)
 
+![WhatsApp Image 2024-11-15 at 5 58 23 PM](https://github.com/user-attachments/assets/8c17ffd9-dea5-43cf-bfc6-24b40fd632ac)
 
 ## Result:
 Thus, the program for android application, Font Size and color was executed successfully using Android Studio.
